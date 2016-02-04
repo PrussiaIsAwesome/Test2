@@ -25,7 +25,7 @@ Using the + sign.
 
 **what’s wrong with this: var fullName = firstName + lastName?**
 
-It’s missing the quotatin marks.
+It’s missing the quotation marks.
 
 
 **what do javascript lines normally end with?**
